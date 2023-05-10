@@ -1,2 +1,3 @@
 # TaskMate
-A simple Todo app made in Django. This is done just for the learning purpose.
+
+### Done as a part of jumpwhere internship
